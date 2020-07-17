@@ -1,2 +1,2 @@
-Hello, this is Octocat.............
+Hello, this is Octocat.
 
